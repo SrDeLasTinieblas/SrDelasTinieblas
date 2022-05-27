@@ -43,7 +43,7 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
 [![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/srdelastinieblas-axopota-0b48b5213/)
+[![LinkedIn](https://img.shields.io/badge/SrDeLas-Tinieblas-red)](https://www.linkedin.com/in/srdelastinieblas-axopota-0b48b5213/)
 
 <!-- ## App developer roadmaps: -->
 <!-- [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap) -->
