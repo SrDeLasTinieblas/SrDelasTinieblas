@@ -38,33 +38,33 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 <!-- [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>-->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)-->
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/axopotamre/)
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
 [![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/srdelastinieblas-axopota-0b48b5213/)
 
-## App developer roadmaps:
+<!-- ## App developer roadmaps: -->
 <!-- [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap) -->
 <!-- [![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap) -->
 
-## The community "Code Challenge" projects:
+<!-- ## The community "Code Challenge" projects:
 
 Challenges index repository
 
 [![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Public%20code/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Code-Challenges)
 
-![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)
+![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png) -->
 
-### Weekly
+<!-- ### Weekly
 
 [![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Public%20Swift/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 [![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Public%20Kotlin/Android%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
 
-Small weekly programming challenges to improve our skills (mainly using [Swift](https://github.com/apple/swift) and [Kotlin](https://github.com/JetBrains/kotlin)). Every **Monday** a new challenge is added in the repositories and last week's challenge is resolved on GitHub and Twitch.
+Small weekly programming challenges to improve our skills (mainly using [Swift](https://github.com/apple/swift) and [Kotlin](https://github.com/JetBrains/kotlin)). Every **Monday** a new challenge is added in the repositories and last week's challenge is resolved on GitHub and Twitch.-->
 
-### Monthly
+<!--### Monthly
 
 Monthly challenges to create small Apps based on a few requirements. A new challenge every **first Monday** of the month.
 
@@ -89,6 +89,7 @@ If you want to join our community, learn App coding, and help the continuity of 
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
 [![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
+-->
 
 ## Some YouTube videos:
 
