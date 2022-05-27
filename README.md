@@ -23,7 +23,7 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 
