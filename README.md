@@ -25,9 +25,7 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 [![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
-
-
+[![React](https://img.shields.io/badge/REACT-js-61DAFB?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 </br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
