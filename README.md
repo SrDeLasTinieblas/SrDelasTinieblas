@@ -151,8 +151,8 @@ If you want to join our community, learn App coding, and help the continuity of 
 
 ## Contact & support:
 
-[![MyPublicInbox](https://img.shields.io/badge/xangeloherrera13@gmail.com-Mi%20correo%20personal_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![Email](https://img.shields.io/badge/xangeloherrera13@gmail.com-Mi%20correo%20personal_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:xangeloherrera13@gmail.com)
+
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
