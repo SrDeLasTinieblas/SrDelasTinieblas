@@ -91,7 +91,7 @@ If you want to join our community, learn App coding, and help the continuity of 
 [![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
 -->
 
-## Some YouTube videos:
+<!-- ## Some YouTube videos:
 
 <table style="width:100%">
   <tr>
@@ -147,12 +147,12 @@ If you want to join our community, learn App coding, and help the continuity of 
   </tr>
 </table>
 </table>
-
+-->
 
 ## Contact & support:
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:https://img.shields.io/badge/-axpotamre-red)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
