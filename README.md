@@ -21,13 +21,14 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 [![C Sharp](https://img.shields.io/badge/C-Sharp-0690FA?style=for-the-badge&logo=C%20Sharp&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+</br>
 [![React](https://img.shields.io/badge/REACT-js-61DAFB?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()
-
 </br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
