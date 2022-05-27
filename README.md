@@ -18,13 +18,15 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 
 ## Skills:
 
-[![C Sharp](https://img.shields.io/badge/Sharp-0690FA?style=for-the-badge&logo=C%20Sharp&logoColor=white&labelColor=101010)]()
+[![C Sharp](https://img.shields.io/badge/C_Sharp-0690FA?style=for-the-badge&logo=C%20Sharp&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-<!-- [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]() -->
-<!-- [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]() -->
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=amazon-html&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACTJS&logoColor=white&labelColor=101010)]()
+
 </br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
