@@ -3,18 +3,18 @@
 
 ![https://github.com/SrDeLasTinieblas/](https://github.com/SrDeLasTinieblas/SrDelasTinieblas/blob/main/Monja.jpg)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+<!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)-->
 
-I'm a professional software engineer for more than twelve years.
+Actualmente estudio la carrera de Ingeneria de Sistemas
 
-In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
+<!--In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
 Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
 
-In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free.
+In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free.-->
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
