@@ -36,7 +36,8 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 </br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()
+[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue?style=for-the-badge&logo=SQL-SERVER&logoColor=white&labelColor=101010)]()
+<!--[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()-->
 
 </br>
 
