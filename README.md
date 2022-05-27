@@ -29,8 +29,9 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 </br>
 [![React](https://img.shields.io/badge/REACT-js-61DAFB?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
 </br>
-
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()
 
