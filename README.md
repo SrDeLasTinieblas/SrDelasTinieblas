@@ -161,6 +161,6 @@ If you want to join our community, learn App coding, and help the continuity of 
 
 ## Contact & support:
 
-[![Email](https://img.shields.io/badge/xangeloherrera13@gmail.com-Mi%20correo%20personal,_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![Email](https://img.shields.io/badge/xangeloherrera13@gmail.com-Mi%20correo%20personal,_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)]()
 </br>
 
