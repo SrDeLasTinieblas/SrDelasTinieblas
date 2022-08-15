@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)-->
 
-@octocat :+1: Actualmente estudio la carrera de Ingeneria de Sistemas - it's ready to merge! :shipit:
+@Angelo :+1: Actualmente estudio la carrera de Ingeneria de Sistemas - it's ready to merge! :shipit:
 
 ## Skills:
 
