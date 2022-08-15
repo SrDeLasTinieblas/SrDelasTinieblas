@@ -10,6 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)-->
 
 Actualmente estudio la carrera de Ingeneria de Sistemas
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 <!--In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
 Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
