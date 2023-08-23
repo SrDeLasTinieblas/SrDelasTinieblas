@@ -20,17 +20,18 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
-</br>
 [![React](https://img.shields.io/badge/REACT-js-61DAFB?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+[![Microsoft SQL Server](https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white&labelColor=101010)]()
 <!--[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()-->
 <!--[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()-->
 <!--[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()-->
 
-</br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Microsoft SQL Server](https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white&labelColor=101010)]()
+
+
 <!--[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()-->
 
 </br>
