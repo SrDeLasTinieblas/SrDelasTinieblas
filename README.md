@@ -25,6 +25,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Microsoft SQL Server](https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white&labelColor=101010)]()
+[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()
 <!--[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()-->
 <!--[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()-->
 <!--[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()-->
@@ -33,8 +34,6 @@
 
 
 <!--[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()-->
-
-</br>
 
 ## Find me at:
 
