@@ -2,7 +2,7 @@
 
 <!-- # ![https://mouredev.com](https://github.com/SrDeLasTinieblas/SrDelasTinieblas/blob/main/hannibal-lecter.png) -->
 Hola, Mi nombre es Angelo.
-### Soy Ingeniero de Sistemas 
+### Soy Desarrollador de Software
 
 <!--![https://github.com/SrDeLasTinieblas/](https://github.com/SrDeLasTinieblas/SrDelasTinieblas/blob/main/Monja.jpg)-->
 
@@ -12,7 +12,7 @@ Hola, Mi nombre es Angelo.
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)-->
 
-@Angelo :+1: Actualmente estudio la carrera de Ingeneria de Sistemas - it's ready to merge! :shipit:
+@Angelo :+1: it's ready to merge! :shipit:
 
 ## Skills:
 
