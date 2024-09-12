@@ -2,7 +2,7 @@
 
 <!-- # ![https://mouredev.com](https://github.com/SrDeLasTinieblas/SrDelasTinieblas/blob/main/hannibal-lecter.png) -->
 Hola, Mi nombre es Angelo.
-### Soy programador 
+### Soy Ingeniero de Sistemas 
 
 <!--![https://github.com/SrDeLasTinieblas/](https://github.com/SrDeLasTinieblas/SrDelasTinieblas/blob/main/Monja.jpg)-->
 
