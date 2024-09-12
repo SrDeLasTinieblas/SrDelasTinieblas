@@ -30,7 +30,9 @@
 <!--[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()-->
 <!--[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()-->
 
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 <!--[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()-->
