@@ -42,7 +42,7 @@
 </div>
 
 
-[![C Sharp](https://img.shields.io/badge/C-Sharp-0690FA?style=for-the-badge&logo=C%20Sharp&logoColor=white&labelColor=101010)]()
+<!--[![C Sharp](https://img.shields.io/badge/C-Sharp-0690FA?style=for-the-badge&logo=C%20Sharp&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
@@ -54,6 +54,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Microsoft SQL Server](https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white&labelColor=101010)]()
+-->
 
 <!--[![Sql Server](https://img.shields.io/badge/SQL-SERVER-blue)]()-->
 <!--[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()-->
